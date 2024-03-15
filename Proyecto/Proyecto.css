@@ -1,0 +1,90 @@
+/* PAGINA 1*/
+.img-busqueda {
+    float: left;
+  }
+  .img-usuario {
+    float: left;
+  }
+  .img-megusta {
+    float: left;
+  }
+  .img-biblioteca {
+    float: left;
+  }
+  .img-singin {
+    float: right;
+  }
+  .img-singup{
+    position:relative;
+    right: -700px; 
+  }
+  
+  
+  h1 {
+    font-family:sans-serif moderna;
+    font-size:100px;
+    text-align:center;
+    margin-top: 130px;
+  }
+  h2{
+    text-align:center;
+  }
+  
+  .img-libro {
+    text-align: center;
+  }
+  
+  footer {
+    background-color: #49423C;
+    color: #fff9f2;
+    text-align: center;
+    padding: 0px;
+    flex-shrink: 0;
+    margin-top: 130px;
+  }
+  
+  .pg1{
+    background-color:#FFF8F1;
+  }
+
+  
+  /*PAGINA2 */
+  h3 {
+    font-size:50px;
+    text-align: left;
+    margin-top: 100px;
+  }
+  h4{
+    text-align: center;
+    margin-left:-400px;
+  }
+  
+  .img-sug {
+    text-align: center;
+  }
+  
+  .pg2{
+    background-color:#FFF8F1;
+  }
+
+  /*PAGINA 3 */
+  .pg3{
+    background-color:#FFF8F1;
+  }
+  
+  .img-libros {
+    float: left;
+  }
+  
+  .img-mangas {
+    position:relative;
+    right: -200px; 
+    
+  }
+  
+  .img-novelas {
+    position:relative;
+    right: -700px; 
+    top: -620px;
+    
+  }
